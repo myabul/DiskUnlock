@@ -1,0 +1,17 @@
+=== DISKUNLOCKER LAB RAPORU ([03:25:39.672] ) ===
+=== DISKUNLOCKER LAB RAPORU ([03:26:08.247] ) ===
+
+=== DISKUNLOCKER LAB RAPORU ===
+[03:31:42.139] [SYSTEM] Topoloji yenilendi: 5 fiziksel sürücü algılandı.
+[03:31:50.800] [*] Seçili disk: PhysicalDrive4
+[03:31:52.643] ===========================================================
+[03:31:52.646] >> [DERİN DONANIM TEŞHİS RAPORU] PhysicalDrive4
+[03:31:52.648]    Model: TransMemory | Seri No: 2
+[03:31:52.649]    Bağlantı Türü: USB External (UASP) | Medya: Flash Bellek / USB Depolama
+[03:31:52.650]    Firmware: N/A | Sektör: 512 B
+[03:31:52.652]    [TUR] Sürücü Durumu: READY (Komut kabulüne hazır)
+[03:31:52.653]    [ATA SECURITY] Standart ATA güvenlik komutları desteklenmiyor.
+[03:31:52.656]    [YAZILIM KRİPTO] Yok (Düz Bölüm)
+[03:31:52.657]    [S.M.A.R.T.] Sağlık: PASSED (İyi) | Sıcaklık: 34°C
+[03:31:52.659] ===========================================================
+===========================================================
